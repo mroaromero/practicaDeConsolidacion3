@@ -1,0 +1,38 @@
+#cajaPresupuesto {
+    width: 61%;
+    border: 2px solid green;
+    background-color: rgb(229, 248, 231);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#tablaSuperior {
+    width: 380px;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#cajaGasto {
+    width: 61%;
+    border: 2px solid red;
+    background-color: #FED7D7;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#tablaInferior {
+    width: 570px;
+}
+
+.btnEliminarGasto {
+    color: #337eff;
+    border: none;
+    background: none;
+    padding: 0;
+}
+
+
+
+  
+  
